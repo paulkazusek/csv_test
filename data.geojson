@@ -20,6 +20,16 @@
       "properties": {
         "name": "Hövels Hausbrauerei"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.53113403323375, 51.30373147577764]
+      },
+      "properties": {
+        "name": "Vormann Brauerei"
+      }
     }
   ]
 }
