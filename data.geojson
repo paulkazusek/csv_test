@@ -9,8 +9,7 @@
       },
       "properties": {
         "name": "Privatbrauerei MORITZ FIEGE GmbH & Co. KG",
-        "adresse": "Moritz-Fiege-Straße 1, 44787 Bochum",
-        "website": "https://moritz-fiege.de"
+        "adresse": "Moritz-Fiege-Straße 1, 44787 Bochum"
       }
     },
     {
@@ -21,8 +20,7 @@
       },
       "properties": {
         "name": "Hövels Hausbrauerei",
-        "adresse": "Hövelsstr. 25, 44135 Dortmund",
-        "website": "https://hoevels.de"
+        "adresse": "Hövelsstr. 25, 44135 Dortmund"
       }
     }
   ]
