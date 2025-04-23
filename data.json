@@ -1,23 +1,35 @@
 [
   {
-    "name": "Brauerei König",
-    "stadt": "Duisburg",
-    "bundesland": "Nordrhein-Westfalen",
-    "website": "https://koenig.de",
-    "instagram": null
-  },
-  {
-    "name": "Moritz Fiege",
-    "stadt": "Bochum",
-    "bundesland": "Nordrhein-Westfalen",
+    "name": "Privatbrauerei MORITZ FIEGE GmbH & Co. KG",
+    "address": {
+      "street": "Moritz-Fiege-Straße 1",
+      "city": "Bochum",
+      "postalCode": "44787"
+    },
+    "coordinates": {
+      "lat": 51.48092430954644,
+      "lon": 7.22727940124151
+    },
     "website": "https://moritz-fiege.de",
-    "instagram": "https://instagram.com/moritzfiege"
+    "instagram": "https://instagram.com/moritzfiegebrauerei",
+    "googleMaps": "https://maps.app.goo.gl/me5mVNVSvmL7P3hm8"
   },
   {
     "name": "Hövels Hausbrauerei",
-    "stadt": "Dortmund",
-    "bundesland": "Nordrhein-Westfalen",
-    "website": "https://hoevels.de",
-    "instagram": null
+    "address": {
+      "street": "Hövelsstr. 25",
+      "city": "Dortmund",
+      "postalCode": "44137"
+    },
+    "coordinates": {
+      "lat": 51.51250445727481,
+      "lon": 7.458610677872929
+    },
+    "website": "https://www.hoevels-hausbrauerei.de/",
+    "instagram": [
+      "https://instagram.com/hoevels",
+      "https://instagram.com/hoevels.brauerei"
+    ],
+    "googleMaps": "https://maps.app.goo.gl/icXd6ib6EXkig1rq6"
   }
 ]
