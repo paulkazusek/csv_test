@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Brauerei König",
+    "stadt": "Duisburg",
+    "bundesland": "Nordrhein-Westfalen",
+    "website": "https://koenig.de",
+    "instagram": null
+  },
+  {
+    "name": "Moritz Fiege",
+    "stadt": "Bochum",
+    "bundesland": "Nordrhein-Westfalen",
+    "website": "https://moritz-fiege.de",
+    "instagram": "https://instagram.com/moritzfiege"
+  },
+  {
+    "name": "Hövels Hausbrauerei",
+    "stadt": "Dortmund",
+    "bundesland": "Nordrhein-Westfalen",
+    "website": "https://hoevels.de",
+    "instagram": null
+  }
+]
