@@ -1,6 +1,6 @@
 # Brauereien im Ruhrgebiet
 
-| Name                                       | Adresse                                     | Koordinaten        | Website                        | Instagram                      |
-|--------------------------------------------|---------------------------------------------|--------------------|--------------------------------|--------------------------------|
-| Privatbrauerei MORITZ FIEGE GmbH & Co. KG  | Moritz-Fiege-Straße 1, 44787 Bochum         | 51.4828, 7.2164    | [moritz-fiege.de](https://moritz-fiege.de)  | [@moritzfiege](https://instagram.com/moritzfiegebrauerei) |
-| Hövels Hausbrauerei                        | Hövelsstr. 25, 44135 Dortmund               | 51.4833, 7.0267    | [hoevels.de](https://hoevels.de)  | [@hoevels](https://instagram.com/hoevels) [@hoevels.brauerei](https://instagram.com/hoevels.brauerei) |
+| Name                                       | Adresse                                     | Koordinaten        | Website                        | Instagram                                                       | Google Maps                                                                 |
+|--------------------------------------------|---------------------------------------------|--------------------|--------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Privatbrauerei MORITZ FIEGE GmbH & Co. KG  | Moritz-Fiege-Straße 1, 44787 Bochum         | 51.4828, 7.2164    | [moritz-fiege.de](https://moritz-fiege.de)  | [@moritzfiege](https://instagram.com/moritzfiegebrauerei)      | [Google Maps](https://www.google.com/maps/place/Moritz-Fiege-Straße+1,+44787+Bochum) |
+| Hövels Hausbrauerei                        | Hövelsstr. 25, 44137 Dortmund               | 51.4833, 7.0267    | [hoevels.de](https://hoevels.de)  | [@hoevels](https://instagram.com/hoevels) [@hoevels.brauerei](https://instagram.com/hoevels.brauerei) | [Google Maps](https://www.google.com/maps/place/H%C3%96VELS+Hausbrauerei/@51.5126019,7.4588561,21z) |
