@@ -5,7 +5,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.22727940124151, 51.48092430954644]
+        "coordinates": [
+          7.22727940124151,
+          51.48092430954644
+        ]
       },
       "properties": {
         "name": "Privatbrauerei MORITZ FIEGE GmbH & Co. KG"
@@ -15,20 +18,40 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.458610677872929, 51.51250445727481]
+        "coordinates": [
+          7.458610677872929,
+          51.51250445727481
+        ]
       },
       "properties": {
         "name": "Hövels Hausbrauerei"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53113403323375,
+          51.30373147577764
+        ]
+      },
+      "properties": {
+        "name": "Vormann Brauerei"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.53113403323375, 51.30373147577764]
+        "coordinates": [
+          7.840447040776438,
+          51.66527436520913
+        ]
       },
       "properties": {
-        "name": "Vormann Brauerei"
+        "name": "Kloster-Brauerei Hamm"
       }
     }
   ]
