@@ -5,22 +5,20 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.2164, 51.4828]
+        "coordinates": [7.22727940124151, 51.48092430954644]
       },
       "properties": {
-        "name": "Privatbrauerei MORITZ FIEGE GmbH & Co. KG",
-        "adresse": "Moritz-Fiege-Straße 1, 44787 Bochum"
+        "name": "Privatbrauerei MORITZ FIEGE GmbH & Co. KG"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.0267, 51.4833]
+        "coordinates": [7.458610677872929, 51.51250445727481]
       },
       "properties": {
-        "name": "Hövels Hausbrauerei",
-        "adresse": "Hövelsstr. 25, 44135 Dortmund"
+        "name": "Hövels Hausbrauerei"
       }
     }
   ]
