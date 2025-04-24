@@ -9,7 +9,7 @@
 
 | Name      | Adresse    | Koordinaten  | Website    | Instagram   | Google Maps      |
 |-----------|------------|--------------|------------|-------------|------------------|
-| Ratsherrn Brauerei GmbH | Lagerstraße 30a, 20357 Hamburg (St. Pauli) |||| [@ratsherrn_brauerei](https://instagram.com/ratsherrn_brauerei) |
+| Ratsherrn Brauerei GmbH | Lagerstraße 30a, 20357 Hamburg (St. Pauli) ||| [@ratsherrn_brauerei](https://instagram.com/ratsherrn_brauerei) | |
 
 
 # Hashtags
