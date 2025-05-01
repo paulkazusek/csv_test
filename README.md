@@ -10,7 +10,7 @@
 | Breckbräu | Frankfurter Str. 74, 58339 Breckerfeld | | [breckbraeu.de/](http://www.breckbraeu.de/) | [@breckbraeu2018](https://instagram.com/breckbraeu2018) | |
 | Norschi Bräu | Lichtenplatzstr. 3, Gevelsberg | | [norschibrau.de](https://www.norschibrau.de/) | [@norschibrau](https://instagram.com/norschibrau) | |
 | GE Bräu GmbH | Ahstraße 6-8, 45879 Gelsenkirchen || [ge-braeu.de](https://ge-braeu.de/) | [@ge.braeu](https://instagram.com/ge.braeu) ||
-|||||||
+|||| [brauwerk-schacht8.de](https://brauwerk-schacht8.de/) | [@brauwerk_schacht8](https://instagram.com/brauwerk_schacht8) ||
 |||||||
 
 
