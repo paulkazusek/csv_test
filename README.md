@@ -7,7 +7,7 @@
 | Vormann Brauerei                           | Braugasse 3-5, 58091 Hagen-Dahl             | 51.30373147577764, 7.53113403323375  | [vormann-brauerei.de](https://www.vormann-brauerei.de/) | [@vormann_brauerei](https://instagram.com/vormann_brauerei) | [Google Maps](https://maps.app.goo.gl/ZF8sc4uJX4ZxKSBL8) |
 | Kloster-Brauerei Hamm                      | Von-Galen-Straße 36, 59063 Hamm             | 51.66527436520913, 7.840447040776438 | [klosterbrauerei-hamm.de](https://www.klosterbrauerei-hamm.de/) | [@kloster_brauerei_hamm](https://instagram.com/kloster_brauerei_hamm) | [Google Maps](https://maps.app.goo.gl/PLX1m733DTdpuGYY8) |
 | Aktionsbrauerei Hanno Dähne | Eschstr. 48, 44629 Herne | | [hannosgegenmassenbierhaltung.de](https://www.hannosgegenmassenbierhaltung.de/) | [@hannosbier](https://www.instagram.com/hannosbier/) | |
-| | | | | | |
+| Breckbräu | Frankfurter Str. 74, 58339 Breckerfeld | | [breckbraeu.de/](http://www.breckbraeu.de/) | | |
 | | | | | | |
 
 | Name      | Adresse    | Koordinaten  | Website    | Instagram   | Google Maps      |
