@@ -30,6 +30,9 @@
 |------------------------------------------------------------------------|
 | [@bierkoenigin_bw](https://instagram.com/bierkoenigin_bw)              |
 | [@irina_mag_bier](https://instagram.com/irina_mag_bier)                |
+| [@schwarzwald_mary](https://instagram.com/schwarzwald_mary)            |
+| [@nina.bierista](https://instagram.com/nina.bierista)                  |
+| [@hopfenmaedchen](https://instagram.com/hopfenmaedchen)                |
 
 
 # Hashtags
