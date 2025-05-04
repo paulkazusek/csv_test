@@ -33,6 +33,7 @@
 |  Instagram                                                                       |
 |----------------------------------------------------------------------------------|
 | [@bierbudeduisburg](https://instagram.com/bierbudeduisburg)                      |
+| [@bieragentur](https://instagram.com/bieragentur)                                |
 
 # beerguys
 |  Instagram                                                                       |
