@@ -71,6 +71,7 @@
 [#germanpilsner](https://www.instagram.com/explore/tags/germanpilsner/)
 [#czechpilsner](https://www.instagram.com/explore/tags/czechpilsner/)
 [#girlswithbeer](https://www.instagram.com/explore/tags/girlswithbeer/)
+[#beerbabe](https://www.instagram.com/explore/tags/beerbabe/)
 [#beergram](https://www.instagram.com/explore/tags/beergram/)
 [#instabeer](https://www.instagram.com/explore/tags/instabeer/)
 [#piwo](https://www.instagram.com/explore/tags/piwo/)
