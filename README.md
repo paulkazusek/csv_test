@@ -59,4 +59,6 @@
 [#bierkönigin](https://www.instagram.com/explore/tags/bierkönigin/)
 [#bierliebhaber](https://www.instagram.com/explore/tags/bierliebhaber/)
 [#bierbewusstgeniessen](https://www.instagram.com/explore/tags/bierbewusstgeniessen/)
+[#germanpilsner](https://www.instagram.com/explore/tags/germanpilsner/)
 [#girlswithbeer](https://www.instagram.com/explore/tags/girlswithbeer/)
+
