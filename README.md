@@ -54,6 +54,7 @@
 
 
 # Hashtags
+[#bier](www.instagram.com/explore/tags/bier/)
 
 #bierbewusstgeniessen
 #bierliebe
