@@ -66,3 +66,6 @@
 [#girlswithbeer](https://www.instagram.com/explore/tags/girlswithbeer/)
 [#beergram](https://www.instagram.com/explore/tags/beergram/)
 [#instabeer](https://www.instagram.com/explore/tags/instabeer/)
+[#piwo](https://www.instagram.com/explore/tags/piwo/)
+[#browar](https://www.instagram.com/explore/tags/browar/)
+[#cerveza](https://www.instagram.com/explore/tags/cerveza/)
