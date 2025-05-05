@@ -59,6 +59,7 @@
 [#brauerei](https://www.instagram.com/explore/tags/brauerei/)
 [#hefeweizen](https://www.instagram.com/explore/tags/hefeweizen/)
 [#prost](https://www.instagram.com/explore/tags/prost/)
+[#dosenbier](https://www.instagram.com/explore/tags/dosenbier/)
 [#beeroclock](https://www.instagram.com/explore/tags/beeroclock/)
 [#beeroftheday](https://www.instagram.com/explore/tags/beeroftheday/)
 [#privatbrauerei](https://www.instagram.com/explore/tags/privatbrauerei/)
