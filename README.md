@@ -55,8 +55,8 @@
 
 # Hashtags
 [#bier](https://www.instagram.com/explore/tags/bier/)
+[#bierliebe](https://www.instagram.com/explore/tags/bierliebe/)
+[#bierkönigin](https://www.instagram.com/explore/tags/bierkönigin/)
 
 #bierbewusstgeniessen
-#bierliebe
-#bierkönigin
 #bierliebhaber
