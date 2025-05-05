@@ -63,6 +63,7 @@
 [#beeroftheday](https://www.instagram.com/explore/tags/beeroftheday/)
 [#privatbrauerei](https://www.instagram.com/explore/tags/privatbrauerei/)
 [#bierliebe](https://www.instagram.com/explore/tags/bierliebe/)
+[#beerlover](https://www.instagram.com/explore/tags/beerlover/)
 [#bierkönigin](https://www.instagram.com/explore/tags/bierkönigin/)
 [#bierliebhaber](https://www.instagram.com/explore/tags/bierliebhaber/)
 [#bierbewusstgeniessen](https://www.instagram.com/explore/tags/bierbewusstgeniessen/)
