@@ -56,6 +56,11 @@
 
 # Hashtags
 [#bier](https://www.instagram.com/explore/tags/bier/)
+[#brauerei](https://www.instagram.com/explore/tags/brauerei/)
+[#hefeweizen](https://www.instagram.com/explore/tags/hefeweizen/)
+[#prost](https://www.instagram.com/explore/tags/prost/)
+[#beeroclock](https://www.instagram.com/explore/tags/beeroclock/)
+[#privatbrauerei](https://www.instagram.com/explore/tags/privatbrauerei/)
 [#bierliebe](https://www.instagram.com/explore/tags/bierliebe/)
 [#bierkönigin](https://www.instagram.com/explore/tags/bierkönigin/)
 [#bierliebhaber](https://www.instagram.com/explore/tags/bierliebhaber/)
