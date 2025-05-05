@@ -68,6 +68,7 @@
 [#bierliebhaber](https://www.instagram.com/explore/tags/bierliebhaber/)
 [#bierbewusstgeniessen](https://www.instagram.com/explore/tags/bierbewusstgeniessen/)
 [#pilsner](https://www.instagram.com/explore/tags/pilsner/)
+[#pilsnerbeer](https://www.instagram.com/explore/tags/pilsnerbeer/)
 [#germanpilsner](https://www.instagram.com/explore/tags/germanpilsner/)
 [#czechpilsner](https://www.instagram.com/explore/tags/czechpilsner/)
 [#girlswithbeer](https://www.instagram.com/explore/tags/girlswithbeer/)
