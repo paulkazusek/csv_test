@@ -60,6 +60,7 @@
 [#hefeweizen](https://www.instagram.com/explore/tags/hefeweizen/)
 [#prost](https://www.instagram.com/explore/tags/prost/)
 [#beeroclock](https://www.instagram.com/explore/tags/beeroclock/)
+[#beeroftheday](https://www.instagram.com/explore/tags/beeroftheday/)
 [#privatbrauerei](https://www.instagram.com/explore/tags/privatbrauerei/)
 [#bierliebe](https://www.instagram.com/explore/tags/bierliebe/)
 [#bierkönigin](https://www.instagram.com/explore/tags/bierkönigin/)
