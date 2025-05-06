@@ -53,7 +53,7 @@
 | [@bierlieberin](https://instagram.com/bierlieberin)                                      |
 | [@bierwelt.by.mb](https://instagram.com/bierwelt.by.mb)                                  |
 | [@feinerhofpen](https://instagram.com/feinerhofpen)                                      |
-| [@verbanddiplombiersommerliers](https://instagram.com/verbanddiplombiersommerliers)      |
+| [@verbanddiplombiersommeliers](https://instagram.com/verbanddiplombiersommeliers)        |
 
 
 # Hashtags
