@@ -29,7 +29,7 @@
 | | | | [@unser.braustuebl](https://instagram.com/unser.braustuebl) |
 | | | | [@koebi_brauerei](https://instagram.com/koebi_brauerei) |
 | | | | [@moenchshof.de](https://instagram.com/moenchshof.de) |
-| | | | |
+| Brauprojekt 777 | 46562 Voerde | | [@brauprojekt_777](https://instagram.com/brauprojekt_777) |
 | | | | |
 
 # beerplaces
