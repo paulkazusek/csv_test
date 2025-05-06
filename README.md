@@ -13,6 +13,7 @@
 | Brauwerk Schacht8 ||| [brauwerk-schacht8.de](https://brauwerk-schacht8.de/) | [@brauwerk_schacht8](https://instagram.com/brauwerk_schacht8) ||
 | Daniel Lessig ||| [lessigs.com](https://lessigs.com/) | [@lessigs_brauwerkstatt](https://instagram.com/lessigs_brauwerkstatt) ||
 | Rheingold Brauerei Duisburg | Düsseldorfer Straße 387, 47055 Duisburg || [rheingold-brauerei.de](http://rheingold-brauerei.de/) | [@rheingoldbrauerei](https://instagram.com/rheingoldbrauerei) ||
+| Essener Braumanufaktur |||| [@ebm_bier](https://instagram.com/ebm_bier) ||
 |||||||
 
 
