@@ -34,6 +34,7 @@
 |  Instagram                                                                       |
 |----------------------------------------------------------------------------------|
 | [@bierbudeduisburg](https://instagram.com/bierbudeduisburg)                      |
+| [@rudat_gmbh](https://instagram.com/rudat_gmbh)                                  |
 | [@bieragentur](https://instagram.com/bieragentur)                                |
 | [@prostdortmund](https://instagram.com/prostdortmund)                            |
 | [@bierselig.ruhr](https://instagram.com/bierselig.ruhr)                          |
