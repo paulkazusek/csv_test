@@ -35,6 +35,7 @@
 | [@bierbudeduisburg](https://instagram.com/bierbudeduisburg)                      |
 | [@bieragentur](https://instagram.com/bieragentur)                                |
 | [@prostdortmund](https://instagram.com/prostdortmund)                            |
+| [@bierselig.ruhr](https://instagram.com/bierselig.ruhr)                          |
 
 # beerguys
 |  Instagram                                                                       |
