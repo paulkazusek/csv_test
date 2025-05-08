@@ -96,3 +96,4 @@
 [#beerblogger](https://www.instagram.com/explore/tags/beerblogger/)
 [#ilovebeer](https://www.instagram.com/explore/tags/ilovebeer/)
 [#brewing](https://www.instagram.com/explore/tags/brewing/)
+[#newbeer](https://www.instagram.com/explore/tags/newbeer/)
