@@ -67,6 +67,7 @@
 | [@sophiesbeers](https://instagram.com/sophiesbeers)                                      |
 | [@krombilena](https://instagram.com/krombilena)                                          |
 | [@kliemtbiersommelier](https://instagram.com/kliemtbiersommelier)                        |
+| [@bayrischesmadl_](https://instagram.com/bayrischesmadl_)                                |
 
 
 # Hashtags
