@@ -40,6 +40,7 @@
 | [@bieragentur](https://instagram.com/bieragentur)                                |
 | [@prostdortmund](https://instagram.com/prostdortmund)                            |
 | [@bierselig.ruhr](https://instagram.com/bierselig.ruhr)                          |
+| [@salitos_beach](https://instagram.com/salitos_beach)                          |
 
 # beerguys
 |  Instagram                                                                               |
