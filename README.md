@@ -32,6 +32,7 @@
 | [@moenchshof.de](https://instagram.com/moenchshof.de)                            |
 | [@brauprojekt_777](https://instagram.com/brauprojekt_777)                        |
 | [@brauwerk](https://instagram.com/brauwerk)                                      |
+| [@lieberwaldi](https://instagram.com/lieberwaldi)                                |
 
 # beerplaces
 |  Instagram                                                                       |
