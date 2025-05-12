@@ -19,18 +19,18 @@
 |||||||
 
 
-| Name      | Adresse    | Website    | Instagram   |
-|-----------|------------|------------|-------------|
-| Ratsherrn Brauerei GmbH | Lagerstraße 30a, 20357 Hamburg (St. Pauli) || [@ratsherrn_brauerei](https://instagram.com/ratsherrn_brauerei) |
-| | | | [@brauerei_moninger](https://instagram.com/brauerei_moninger) |
-| | | | [@kettererbier](https://instagram.com/kettererbier) |
-| | | | [@brauereilemke](https://instagram.com/brauereilemke) |
-| | | | [@national_juergens_brauerei](https://instagram.com/national_juergens_brauerei) |
-| | | | [@unser.braustuebl](https://instagram.com/unser.braustuebl) |
-| | | | [@koebi_brauerei](https://instagram.com/koebi_brauerei) |
-| | | | [@moenchshof.de](https://instagram.com/moenchshof.de) |
-| Brauprojekt 777 | 46562 Voerde | | [@brauprojekt_777](https://instagram.com/brauprojekt_777) |
-| | | | |
+| Instagram                                                                        |
+|----------------------------------------------------------------------------------|
+| [@ratsherrn_brauerei](https://instagram.com/ratsherrn_brauerei)                  |
+| [@brauerei_moninger](https://instagram.com/brauerei_moninger)                    |
+| [@kettererbier](https://instagram.com/kettererbier)                              |
+| [@brauereilemke](https://instagram.com/brauereilemke)                            |
+| [@national_juergens_brauerei](https://instagram.com/national_juergens_brauerei)  |
+| [@unser.braustuebl](https://instagram.com/unser.braustuebl)                      |
+| [@koebi_brauerei](https://instagram.com/koebi_brauerei)                          |
+| [@moenchshof.de](https://instagram.com/moenchshof.de)                            |
+| [@brauprojekt_777](https://instagram.com/brauprojekt_777)                        |
+| [@brauwerk](https://instagram.com/brauwerk)                                      |
 
 # beerplaces
 |  Instagram                                                                       |
