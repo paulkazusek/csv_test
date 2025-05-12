@@ -42,6 +42,7 @@
 | [@bierselig.ruhr](https://instagram.com/bierselig.ruhr)                          |
 | [@salitos_beach](https://instagram.com/salitos_beach)                            |
 | [@oskar_am_kanal](https://instagram.com/oskar_am_kanal)                          |
+| [@buedchen_casablanca](https://instagram.com/buedchen_casablanca)                |
 
 # beerguys
 |  Instagram                                                                               |
