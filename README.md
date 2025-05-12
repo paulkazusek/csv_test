@@ -71,6 +71,7 @@
 | [@krombilena](https://instagram.com/krombilena)                                          |
 | [@kliemtbiersommelier](https://instagram.com/kliemtbiersommelier)                        |
 | [@bayerischesmadl_](https://instagram.com/bayerischesmadl_)                              |
+| [@beer_slavic_boy](https://instagram.com/beer_slavic_boy)                                |
 
 
 # Hashtags
