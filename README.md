@@ -75,6 +75,7 @@
 | [@beer_slavic_boy](https://instagram.com/beer_slavic_boy)                                |
 | [@biernise1.0](https://instagram.com/biernise1.0)                                        |
 | [@bierbierweg](https://instagram.com/bierbierweg)                                        |
+| [@bellachinaski](https://instagram.com/bellachinaski)                                     |
 
 
 # Hashtags
