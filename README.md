@@ -45,6 +45,7 @@
 | [@salitos_beach](https://instagram.com/salitos_beach)                            |
 | [@oskar_am_kanal](https://instagram.com/oskar_am_kanal)                          |
 | [@buedchen_casablanca](https://instagram.com/buedchen_casablanca)                |
+| [@11freundediebar](https://instagram.com/11freundediebar)                        |
 
 # beerguys
 |  Instagram                                                                               |
