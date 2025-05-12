@@ -73,6 +73,7 @@
 | [@kliemtbiersommelier](https://instagram.com/kliemtbiersommelier)                        |
 | [@bayerischesmadl_](https://instagram.com/bayerischesmadl_)                              |
 | [@beer_slavic_boy](https://instagram.com/beer_slavic_boy)                                |
+| [@biernise1.0](https://instagram.com/biernise1.0)                                        |
 
 
 # Hashtags
