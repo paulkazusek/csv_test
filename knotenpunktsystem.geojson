@@ -117,6 +117,19 @@
       "properties": {
         "name": "Knotenpunkt 5"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.321798389796164,
+          51.323262865564786
+        ]
+      },
+      "properties": {
+        "name": "Knotenpunkt 92"
+      }
     }
   ]
 }
