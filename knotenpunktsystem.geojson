@@ -143,6 +143,19 @@
       "properties": {
         "name": "Knotenpunkt 6"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.323755898621722,
+          51.354092311270286
+        ]
+      },
+      "properties": {
+        "name": "Knotenpunkt 91"
+      }
     }
   ]
 }
