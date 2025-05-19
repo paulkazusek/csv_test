@@ -78,6 +78,19 @@
       "properties": {
         "name": "Knotenpunkt 67"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.464390998755119,
+          51.36103953852111
+        ]
+      },
+      "properties": {
+        "name": "Knotenpunkt 68"
+      }
     }
   ]
 }
