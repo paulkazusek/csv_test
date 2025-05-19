@@ -39,6 +39,19 @@
       "properties": {
         "name": "Knotenpunkt 63"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.540236251543569,
+          51.3726792442471
+        ]
+      },
+      "properties": {
+        "name": "Knotenpunkt 64"
+      }
     }
   ]
 }
