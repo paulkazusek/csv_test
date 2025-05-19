@@ -13,6 +13,19 @@
       "properties": {
         "name": "Knotenpunkt 10"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.425366817667715,
+          51.39743992045747
+        ]
+      },
+      "properties": {
+        "name": "Knotenpunkt 12"
+      }
     }
   ]
 }
