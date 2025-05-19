@@ -26,6 +26,19 @@
       "properties": {
         "name": "Knotenpunkt 12"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.479125270971285,
+          51.415118127518454
+        ]
+      },
+      "properties": {
+        "name": "Knotenpunkt 63"
+      }
     }
   ]
 }
