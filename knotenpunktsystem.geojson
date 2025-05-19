@@ -6,6 +6,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.341805188861019,
+          51.322745912713344
+        ]
+      },
+      "properties": {
+        "name": "Knotenpunkt 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.277656045381335,
+          51.33573018394155
+        ]
+      },
+      "properties": {
+        "name": "Knotenpunkt 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.343073234046734,
+          51.407622301316
+        ]
+      },
+      "properties": {
+        "name": "Knotenpunkt 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.384257928815419,
           51.3847586676229
         ]
@@ -110,45 +149,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.341805188861019,
-          51.322745912713344
-        ]
-      },
-      "properties": {
-        "name": "Knotenpunkt 5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.321798389796164,
-          51.323262865564786
-        ]
-      },
-      "properties": {
-        "name": "Knotenpunkt 92"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.277656045381335,
-          51.33573018394155
-        ]
-      },
-      "properties": {
-        "name": "Knotenpunkt 6"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.323755898621722,
           51.354092311270286
         ]
@@ -162,12 +162,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.343073234046734,
-          51.407622301316
+          7.321798389796164,
+          51.323262865564786
         ]
       },
       "properties": {
-        "name": "Knotenpunkt 9"
+        "name": "Knotenpunkt 92"
       }
     }
   ]
