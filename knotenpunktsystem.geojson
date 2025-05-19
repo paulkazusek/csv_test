@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.384257928815419,
+          51.3847586676229
+        ]
+      },
+      "properties": {
+        "name": "Knotenpunkt 10"
+      }
+    }
+  ]
+}
