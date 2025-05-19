@@ -104,6 +104,19 @@
       "properties": {
         "name": "Knotenpunkt 70"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.341805188861019,
+          51.322745912713344
+        ]
+      },
+      "properties": {
+        "name": "Knotenpunkt 5"
+      }
     }
   ]
 }
