@@ -38,6 +38,7 @@
 # beerplaces
 |  Instagram                                                                       |
 |----------------------------------------------------------------------------------|
+| [@trinkhalleruhr](https://instagram.com/trinkhalleruhr)                          |
 | [@bierbudeduisburg](https://instagram.com/bierbudeduisburg)                      |
 | [@rudat_gmbh](https://instagram.com/rudat_gmbh)                                  |
 | [@bieragentur](https://instagram.com/bieragentur)                                |
