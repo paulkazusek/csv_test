@@ -39,6 +39,7 @@
 |  Instagram                                                                       |
 |----------------------------------------------------------------------------------|
 | [@trinkhalleruhr](https://instagram.com/trinkhalleruhr)                          |
+| [@trinkhalle_am_floez](https://instagram.com/trinkhalle_am_floez)                |
 | [@bierbudeduisburg](https://instagram.com/bierbudeduisburg)                      |
 | [@rudat_gmbh](https://instagram.com/rudat_gmbh)                                  |
 | [@bieragentur](https://instagram.com/bieragentur)                                |
