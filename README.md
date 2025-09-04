@@ -95,6 +95,7 @@
 | [@the__hoptimist](https://instagram.com/the__hoptimist)                                  |
 | [@oak_craftbeer](https://instagram.com/oak_craftbeer)                                    |
 | [@beerselfie](https://instagram.com/beerselfie)                                          |
+| [@beer_influencer1](https://instagram.com/beer_influencer1)                              |
 
 
 # Hashtags
