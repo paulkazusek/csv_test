@@ -96,6 +96,7 @@
 | [@oak_craftbeer](https://instagram.com/oak_craftbeer)                                    |
 | [@beerselfie](https://instagram.com/beerselfie)                                          |
 | [@beer_infloencer1](https://instagram.com/beer_infloencer1)                              |
+| [@addi.s.bierpartment](https://instagram.com/addi.s.bierpartment)                        |
 
 
 # Hashtags
