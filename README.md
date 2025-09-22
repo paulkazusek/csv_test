@@ -54,6 +54,7 @@
 | [@11freundediebar](https://instagram.com/11freundediebar)                        |
 | [@bier_lust_festival](https://instagram.com/bier_lust_festival)                  |
 | [@kasch_home_of_beers](https://instagram.com/kasch_home_of_beers)                |
+| [@craftbierbude](https://instagram.com/craftbierbude)                            |
 
 # beerguys
 |  Instagram                                                                               |
